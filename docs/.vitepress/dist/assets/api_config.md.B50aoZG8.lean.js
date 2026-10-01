@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.CXGNRzNR.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"api/config.md","filePath":"api/config.md"}'),o={name:"api/config.md"};function c(n,r,i,s,p,f){return t(),a("div")}const m=e(o,[["render",c]]);export{d as __pageData,m as default};

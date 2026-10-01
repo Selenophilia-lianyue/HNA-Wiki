@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  base: '/HNA-Wiki/',
   title: 'HNA-Wiki',
   description: '我的知识库',
   themeConfig: {
