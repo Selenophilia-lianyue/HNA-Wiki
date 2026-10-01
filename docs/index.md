@@ -11,15 +11,15 @@ hero:
       text: 开始阅读
       link: /guide/introduction
     - theme: alt
-      text: API Examples
-      link: /api/
+      text: GitHub
+      link: https://github.com/Selenophilia-lianyue/HNA-Wiki
 
 features:
-  - title: Feature A
+  - title: 角色
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
+  - title: 精灵
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+  - title: 故事&世界观
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
